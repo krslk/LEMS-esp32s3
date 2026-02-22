@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Desktop/EspressifCode/test1_demo/build/CMakeFiles/bootloader
+E:/Desktop/EspressifCode/test1_demo/build/CMakeFiles/bootloader.rule
+E:/Desktop/EspressifCode/test1_demo/build/CMakeFiles/bootloader-complete.rule
+E:/Desktop/EspressifCode/test1_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Desktop/EspressifCode/test1_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Desktop/EspressifCode/test1_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Desktop/EspressifCode/test1_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Desktop/EspressifCode/test1_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Desktop/EspressifCode/test1_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Desktop/EspressifCode/test1_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

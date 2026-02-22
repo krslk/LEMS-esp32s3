@@ -1,0 +1,20 @@
+idf_component_register(
+  SRCS
+  "main.c"
+  "./src/config.c"
+  "./src/json.c"
+  PRIV_REQUIRES
+  spi_flash
+  REQUIRES
+  esp_netif
+  nvs_flash
+  esp_driver_gpio
+  esp_wifi
+  esp_http_server
+  led
+  adc
+  esp-idf-lib__dht
+  mqtt
+  INCLUDE_DIRS
+  "."
+  "./inc")
